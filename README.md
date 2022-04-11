@@ -1,1 +1,1 @@
-# Proxy Rotator by Gabriel Bigardi
+# PHP Proxy Rotator
